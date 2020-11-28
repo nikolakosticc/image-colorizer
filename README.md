@@ -1,3 +1,3 @@
 # image_colorization
 
-![] (albert_einstein.jpg)
+![] (images/albert_einstein.jpg)
