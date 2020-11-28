@@ -1,3 +1,3 @@
 # image_colorization
 
-![Albert] (main/images/albert_einstein.jpg)
+![albert_einstein.jpg] (main/images/albert_einstein.jpg)
