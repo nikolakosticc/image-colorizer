@@ -14,5 +14,6 @@ Image Colorizer is a AI software made to convert black and white photos to regul
 
 Like this : 
 
+![alt text](https://github.com/nikolakosticc/image_colorization/blob/main/Image%20Colorizer/example%202.png)
 
 7. Open Face_Detection.py file.
