@@ -1,3 +1,3 @@
 # Image Colorization
 
-![alt text](https://github.com/nikolakosticc/image_colorization/blob/main/images/albert_einstein.jpg)
+![alt text] (https://github.com/nikolakosticc/image_colorization/blob/main/Image%20Colorizer/example.png)
